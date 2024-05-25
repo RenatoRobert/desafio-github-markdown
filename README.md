@@ -10,7 +10,7 @@
 
 [X] **Ambos realizarem um clone do repositório em suas máquinas**
 
-[X] **Realizar Commits, abrir Issues e pull requests**
+[X] **Realizar Commits, abrir Issues e pull requests** __OK__
 
 [X] **Arquivo README editao no repositório**
 
